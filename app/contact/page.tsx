@@ -41,7 +41,7 @@ export default function Contact() {
               <Mail className="h-12 w-12 mx-auto text-primary mb-4" />
               <h2 className="text-xl font-semibold mb-2">Email Us</h2>
               <p className="text-muted-foreground">
-                info@rdrss.com
+                rdrindia3@gmail.com
               </p>
             </div>
           </div>
